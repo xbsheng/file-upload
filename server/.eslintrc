@@ -1,0 +1,12 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "strict": "off",
+    "no-unused-vars": "warn",
+    "arrow-spacing": "warn",
+    "semi": [
+      "warn",
+      "never"
+    ]
+  }
+}
