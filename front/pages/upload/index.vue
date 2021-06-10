@@ -27,7 +27,7 @@
 <script>
 import sparkMd5 from 'spark-md5'
 import { isImage } from '@/utils/filetype'
-const CHUNK_SIZE = 100 * 1024
+const CHUNK_SIZE = 1024 * 1024
 export default {
   data() {
     return {
