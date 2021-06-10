@@ -10,5 +10,5 @@ yarn add less less-loader@7.x
 // nuxt.config/js
 modules: ['@nuxtjs/axios', '@nuxtjs/proxy'],
 ```
-test111
+test2021年6月10日19:19:26
 
